@@ -49,9 +49,10 @@ st.markdown(
 
 st.markdown("<h1 style='color:#ff3333;'>MovieMate</h1>", unsafe_allow_html=True)
 
-# File paths for the pickle files
-movie_list_path = r'C:\Users\91721\Downloads\movei2\movie_list.pkl'
-similarity_path = r'C:\Users\91721\Downloads\movei2\similarity.pkl'
+# File paths for the pickle files (use relative paths)
+base_path = os.path.dirname(__file__)
+movie_list_path = os.path.join(base_path, 'movie_list.pkl')
+similarity_path = os.path.join(base_path, 'similarity.pkl')
 
 # Check if the files exist before loading them
 movies = None
