@@ -41,14 +41,19 @@ To develop a movie recommender system that suggests films tailored to individual
 - **Database Management:** SQL or NoSQL  
 - **Version Control:** Git and GitHub for collaboration and code management
 
+## 📽️ How It Works
+Below is a demonstration video showcasing how the Movie Recommender System works:
+
+![Movie Recommender System Demo]("C:\Users\91721\Downloads\Movei Recommendation.mp4")
+
 ## 🔗 Links
-- **GitHub Repository:** [GitHub Link](https://github.com/your-repo) (replace with your actual link)  
-- **Live Demo:** [Live Demo Link](https://your-live-demo-link) (replace with your actual link)
+- **GitHub Repository:** [GitHub Link](https://github.com/Ganeshsalke/MR.git)  
+- **Live Demo:** [Live Demo Link](https://github.com/Ganeshsalke/MR.git) 
 
 ## 📞 Contact
 For any inquiries or contributions, feel free to reach out:  
-- **Email:** your-email@example.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email:** ganeshsalke02@gmail.com  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ganeshsalke)
 
 ---
 
@@ -61,7 +66,3 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Open a pull request.
 
 ---
-
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
