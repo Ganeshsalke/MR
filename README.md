@@ -44,11 +44,11 @@ To develop a movie recommender system that suggests films tailored to individual
 ## 📽️ How It Works
 Below is a demonstration video showcasing how the Movie Recommender System works:
 
-![Movie Recommender System Demo]("C:\Users\91721\Downloads\Movei Recommendation.mp4")
+![Movie Recommender System Demo](https://drive.google.com/file/d/1X41HDVV5VGRY8u0eGnHfvbCWK2eK7LSz/view?usp=sharing)
 
 ## 🔗 Links
 - **GitHub Repository:** [GitHub Link](https://github.com/Ganeshsalke/MR.git)  
-- **Live Demo:** [Live Demo Link](https://github.com/Ganeshsalke/MR.git) 
+- **Live Demo:** [How It's Wroks](https://drive.google.com/file/d/1X41HDVV5VGRY8u0eGnHfvbCWK2eK7LSz/view?usp=sharing) 
 
 ## 📞 Contact
 For any inquiries or contributions, feel free to reach out:  
